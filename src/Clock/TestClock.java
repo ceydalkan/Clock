@@ -10,8 +10,7 @@ public class TestClock {
 		clock1.display();
 		clock1.increaseTime(25);
 		clock1.display();
-		clock1.increaseTime(245);
-		clock1.display();
+		
 
 	}
 
